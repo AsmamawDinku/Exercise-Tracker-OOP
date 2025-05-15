@@ -12,3 +12,4 @@ C:\Users\herod\Exercise-Tracker-OOP\ExerciseTracking\obj\Debug\net8.0\refint\Exe
 C:\Users\herod\Exercise-Tracker-OOP\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.pdb
 C:\Users\herod\Exercise-Tracker-OOP\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.genruntimeconfig.cache
 C:\Users\herod\Exercise-Tracker-OOP\ExerciseTracking\obj\Debug\net8.0\ref\ExerciseTracking.dll
+C:\Users\herod\Exercise-Tracker-OOP\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.sourcelink.json
